@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Vector">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Assets/Sprites/StickerStyle Basic Pack Icons/BasicPack/Vector/svg-min.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Assets/Sprites/StickerStyle Basic Pack Icons/BasicPack/Vector/svg-named.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Assets/Sprites/StickerStyle Basic Pack Icons/BasicPack/Vector/src.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Assets/Sprites/StickerStyle Basic Pack Icons/BasicPack/Vector/svg-split.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
